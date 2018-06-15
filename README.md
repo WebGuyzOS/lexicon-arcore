@@ -12,7 +12,7 @@ Google ARCore integration and sample scene
  - Watson: https://assetstore.unity.com/packages/tools/ai/ibm-watson-sdk-for-unity-108831
  - Lexicon: https://assetstore.unity.com/packages/tools/ai/lexicon-113459
 
-3. Set up Lexicon
+3. Set up Lexicon (credentials and cloud sync)
 
  - Follow the quickstart: http://mixspace.tech/lexicon-documentation/0-quick-start/quick-start
  - Run the Basic sample in the editor to test
