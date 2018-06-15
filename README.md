@@ -28,6 +28,7 @@ Google ARCore integration and sample scene
 
 5. Deploy to an Android device
 
+ - Use the ARCore scene included in this repo
  - Be sure to accept the microphone permission
  - Find a surface before creating objects
 
